@@ -1,0 +1,10 @@
+So whether you've tried this or not it really doesn't matter.
+
+Here in the main method I'm going to reuse the main class that we've been working on throughout the
+
+course and we've already got started in the previous chapter we've loaded in this initial ARDE day which
+
+is the input data for the doc of course so that's how big data that will be partitioned and splits across
+
+multiple node in a cluster. cluster cluster cluster cluster
+chapter chapter chapter chapter chapter

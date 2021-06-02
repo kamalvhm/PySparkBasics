@@ -1,7 +1,7 @@
 lst =[4,2,5,1]
 
 def copyRange(lst,start,end):
-    start =int(start)
+    start =start
     end=int(end)
     newList=[]
     for i in range(start,end):
