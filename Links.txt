@@ -1,0 +1,6 @@
+phytohnBasics :- https://pythonexamples.org/pyspark-word-count-example/
+PySpark:- https://sparkbyexamples.com/pyspark-rdd/
+
+TODO List of quesions :-https://sparkbyexamples.com/pyspark-tutorial/
+
+SPARK SCENARIO BASED QUETION :-https://www.youtube.com/watch?v=bU57q5R5eTc

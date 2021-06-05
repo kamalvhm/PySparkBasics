@@ -1,11 +1,12 @@
-lst =[4,2,5,1]
+lst =[4,2,3,1]
 
 def copyRange(lst,start,end):
-    start =start
+    start =int(start)
     end=int(end)
     newList=[]
     for i in range(start,end):
-        newList.append(i)
+        newList.append(lst[i])
+    return newList
 
 def swap(lst,i,j):
     temp=lst[i]
@@ -40,7 +41,7 @@ def insersionSort(lst):
         lst[hole]=value
 
 def merge(lst,left,right):
-    n=len(lst)
+    n=len(left)
     m=len(right)
     i,j,k=0,0,0
     while i<n and j<m:
@@ -49,7 +50,7 @@ def merge(lst,left,right):
             i+=1
             k+=1
         else:
-            lst[k]=left[j]
+            lst[k]=right[j]
             j+=1
             k+=1
     while(i<n):
@@ -57,19 +58,21 @@ def merge(lst,left,right):
         i += 1
         k += 1
     while j<m:
-        lst[k] = left[j]
+        lst[k] = right[j]
         j += 1
         k += 1
-    return lst;
+    return lst
 
 
 def mergeSort(lst):
     n=len(lst)
     if n<=1:
         return lst
-    left=mergeSort(copyRange(lst,0,int(n/2)))
-    right=mergeSort(copyRange(lst,int(n/2),int(n)))
-    merge(lst,left,right)
+    else :
+        left=mergeSort(copyRange(lst,0,n/2))
+        right=mergeSort(copyRange(lst,n/2,n))
+        return merge(lst,left,right)
+
 
 print("Before",lst)
 mergeSort(lst)

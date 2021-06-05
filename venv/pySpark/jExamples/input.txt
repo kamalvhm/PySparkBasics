@@ -1,0 +1,264 @@
+So whether you've tried this or not it really doesn't matter.
+
+Here in the main method I'm going to reuse the main class that we've been working on throughout the
+
+course and we've already got started in the previous chapter we've loaded in this initial ARDE day which
+
+is the input data for the doc of course so that's how big data that will be partitioned and splits across
+
+multiple node in a cluster.
+
+
+
+
+Remove these lines at the bottom because that is not something else.
+
+This initial data is actually very noisy.
+2141342
+It's worth having a little peek at the data.
+
+So a common thing that I would do is I will do a take on that all the day.
+2134234
+That's the method I mentioned in the reference manual that's just going to take the first however many
+
+
+
+
+will specify.
+12341234
+Let's go for 50.
+
+Now I might surprise you but because you are doing a take.
+
+
+
+And you always taking the small number.
+66678
+Spock realizes that you've now really switched into small data so there's no point making this since
+
+when are the day you'll see the return type of this method is a regular Java list of string x so I'll
+87974534
+call this result and we'll loop around and then print them out.
+
+Lots of ways you can do this.
+
+Standard Java book says we're functional.
+
+I'm going to use for each method that's present in Java collections and I will use the same techniques
+
+before this use the method reference system start out call column print line.
+
+So let's have a little look at our initial are the OK.Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Yes a lot of this Inish law the is not relevant.
+
+So all of these timestamps and the sequential number.
+
+And if these blank lines are of no relevance to us it's all.
+
+So how do we get rid of this redundant data.
+
+Well there's lots of different ways of doing it but a really easy way would just be to read a map against
+
+the Saudi day and every line in the Saudi is just a Java string we can use a standard Java string routines
+
+to replace anything that's not a letter with a blank.
+
+So we'd be stripping out the square brackets for instance and that would just leave us with the regular
+
+word instructor.
+
+And for these lines here that it's going to strip out everything so we'll just be left with a blank
+
+line.
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+
+So this is almost regular Java.
+
+Docker
+Docker
+Docker
+Docker
+Docker
+DockerDocker
+Docker
+Docker
+Docker
+Docker
+DockerDocker
+Docker
+Docker
+Docker
+Docker
+DockerDocker
+Docker
+Docker
+Docker
+Docker
+DockerDocker
+Docker
+Docker
+Docker
+Docker
+DockerDocker
+Docker
+Docker
+Docker
+Docker
+DockerDocker
+Docker
+Docker
+Docker
+Docker
+DockerDocker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+
+We would take the initial car the day we'll run a map against it and for each sentence I'm going to
+
+be explicit here and remind myself this is a full sentence.
+Docker
+Docker
+Docker
+Docker
+Docker
+Docker
+We could call on that sentence standard Java here.
