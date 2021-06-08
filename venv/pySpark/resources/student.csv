@@ -1,0 +1,15 @@
+student_id,exam_center_id,subject,year,quarter,score,grade
+1,1,Math,2005,1,41,D
+1,1,spanish,2005,1,46,A
+1,1,physics,2005,1,67,D
+1,1,English,2005,1,69,D
+1,1,Gio,2005,1,42,B
+1,1,History,2005,1,49,A+
+2,1,Math,2005,1,41,D
+2,1,spanish,2005,1,46,A
+2,1,physics,2005,1,67,D
+2,1,English,2005,1,69,D
+2,1,Gio,2005,1,42,B
+2,1,History,2005,1,49,A+
+2,1,Modern Art,2005,1,49,A+
+2,1,Modern Art,2008,1,49,A+

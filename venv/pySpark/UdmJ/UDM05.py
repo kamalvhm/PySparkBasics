@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 
 spark=SparkSession.builder.appName("und5").master("local").getOrCreate()
 
-rdd=spark.sparkContext.textFile("D:/PackUp/PySparkBasics/venv/pySpark/jExamples/input.txt")
+rdd=spark.sparkContext.textFile("D:/PackUp/PySparkBasics/venv/pySpark/UdmJ/input.txt")
 rdd=rdd.map(lambda stnt:stnt.replace("[^a-zA-Z\\s]", "").lower())
 removeBlank=rdd.filter(lambda x:len(x)>0)
 justwords=removeBlank.flatMap(lambda x:x.split(" "))
