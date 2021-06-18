@@ -56,3 +56,6 @@ df.show(truncate=False)
 df2 = spark.read.csv("/src/resources/file.csv")
 #3.2. Creating from text (TXT) file
 df2 = spark.read.text("/src/resources/file.txt")
+
+# Convert DataFrame to RDD
+rdd = df.rdd

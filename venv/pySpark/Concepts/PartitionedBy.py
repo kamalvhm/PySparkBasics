@@ -4,14 +4,15 @@ spark=SparkSession.builder.appName('Dummy').master("local[4]").getOrCreate()
 
 
 df=spark.read.csv("D:/PackUp/PySparkBasics/venv/basics/student.csv", header=True,inferSchema=True)
-
+#df.show()
+print("AFTER PARTITION ON SUBJECT AND WRITE ")
 df.repartition(2).write.partitionBy("subject").csv("D:/PackUp/PySparkBasics/venv/basics/output",mode="overwrite")
 df.show()
 
 #To read Datafrom Partition
-"state=AL and city=SPRINGVILLE"
+#"state=AL and city=SPRINGVILLE"
 dfSinglePart = spark.read.option("header", True) \
-    .csv("c:/tmp/zipcodes-state/state=AL/city=SPRINGVILLE")
+    .csv("D:/PackUp/PySparkBasics/venv/basics/output/subject=Math")
 dfSinglePart.printSchema()
 dfSinglePart.show()
 

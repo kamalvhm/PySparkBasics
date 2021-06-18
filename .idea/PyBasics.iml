@@ -2,7 +2,9 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.7 (PyBasics) (2)" jdkType="Python SDK" />
+    <content url="jar://C:/bigDataLocal/spark/python/lib/py4j-0.10.9-src.zip!/" />
+    <content url="jar://C:/bigDataLocal/spark/python/lib/pyspark.zip!/" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (PySparkBasics)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

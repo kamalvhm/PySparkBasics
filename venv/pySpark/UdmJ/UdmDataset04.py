@@ -1,31 +1,14 @@
 from pyspark.sql import SparkSession
-from pyspark.sql import Row,column as col
-from pyspark.sql.types import StructType,StructField,IntegerType,StringType
 
-spark=SparkSession.builder.appName("fromJava01").master("local").getOrCreate()
+spark=SparkSession.builder.appName("bigLog").master("local").getOrCreate()
 
-lst=[("WARN","2016-12-31 04:19:32"),
-     ("WARN","2016-12-31 03:21:21"),
-     ("FATAL","2016-12-31 03:22:34")
-     ,("INFO","2015-04-21 14:32:21"),
-     ("FATAL","2015-04-21 19:23:20")]
+df=spark.read.csv("D:/PackUp/PySparkBasics/venv/pySpark/resources/biglog.txt", inferSchema=True).toDF("level","datetime")
 
-schema=StructType([
-    StructField("level",StringType(),True),
-     StructField("date",StringType(),True)
-])
+#df.show(20)
 
-df=spark.createDataFrame(lst,schema)
-#df.show()
+df.createOrReplaceTempView("logging_table")
 
+df=spark.sql("select level,date_format(datetime,'MMMM') as month ,cast(first(date_format(datetime,'M')) as int) monthnum,count(1) as total "
+             "from logging_table group by level,month order by monthnum")
 
-df.createOrReplaceTempView("logging")
-
-df=spark.sql("select level,date_format(date,'MMMM') as month from logging")
-df.show()
-
-
-df.createOrReplaceTempView("logging")
-result=spark.sql("select level,month,count(1) as total from logging group by level,month")
-result.show()
-
+df.show(50)

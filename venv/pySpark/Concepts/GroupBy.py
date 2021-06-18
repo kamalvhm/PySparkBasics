@@ -1,7 +1,8 @@
 from pyspark.sql import SparkSession
+import pyspark.sql.functions as f
 
 spark =SparkSession.builder.appName("grp").master("local").getOrCreate()
-'''
+'''https://sparkbyexamples.com/pyspark/pyspark-groupby-explained-with-example/
 count() - Returns the count of rows for each group.
 mean() - Returns the mean of values for each group.
 max() - Returns the maximum of values for each group.
@@ -32,8 +33,8 @@ print(" groupBy() on department column of DataFrame and then find the sum of sal
 print("Similarly, we can calculate the number of employee in each department using count()")
 #df.groupBy("department").count().show()
 print("Calculate the minimum salary of each department using min()")
-data_counts=df.groupBy("department").min("salary")
-data_counts.show()
+#data_counts=df.groupBy("department").min("salary")
+#data_counts.show()
 #One way to get all columns after doing a groupBy is to use join function joib "by department"
 #df.join(data_counts, "department").dropDuplicates()
 print("Calculate the maximin salary of each department using max()")
@@ -44,4 +45,21 @@ print("Calculate the mean salary of each department using mean()")
 #df.groupBy("department").mean("salary").show()
 print("groupBy and aggregate on multiple columns group by on department,state and does sum() on salary and bonus columns.")
 #df.groupBy("department","state").sum("salary","bonus").show()
-
+print("Using agg() aggregate function we can calculate many aggregations at a time on a single statement")
+#using PySpark SQL aggregate functions sum(), avg(), min(), max() mean() e.t.c. In order to use these,
+#we should import """from pyspark.sql.functions import sum,avg,max,min,mean,count"""
+    # df.groupBy("department") \
+    #     .agg(f.sum("salary").alias("sum_salary"), \
+    #          f.avg("salary").alias("avg_salary"), \
+    #          f.sum("bonus").alias("sum_bonus"), \
+    #          f.max("bonus").alias("max_bonus") \
+    #      ) \
+    #     .show(truncate=False)
+print("Similar to SQL “HAVING” clause, On PySpark DataFrame we can use either where() or filter() function to filter the rows of aggregated data")
+df.groupBy("department") \
+    .agg(f.sum("salary").alias("sum_salary"), \
+      f.avg("salary").alias("avg_salary"), \
+      f.sum("bonus").alias("sum_bonus"), \
+      f.max("bonus").alias("max_bonus")) \
+    .where(f.col("sum_bonus") >= 50000) \
+    .show(truncate=False)

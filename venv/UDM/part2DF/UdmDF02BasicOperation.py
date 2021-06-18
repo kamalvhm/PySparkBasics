@@ -13,7 +13,7 @@ df.filter("Close<500").show()
 df.filter(df['Close']<500).select("Volume").show()
 #filter on multiple Conditions - Open price >200 and CLose price < 200
 #The WRONG ONE WITH AND df.filter(df['CLose']<200 and df['OPen']>200) ,WILL NOT WORK
-df.filter((df['CLose'] < 200) & (df['OPen'] > 200)).show() #  for not > 200 '~(df['OPen'] > 200)'
+df.filter((df['Close'] < 200) & (df['Open'] > 200)).show() #  for not > 200 '~(df['OPen'] > 200)'
 #what day the Low price was 170.16
 df.filter(df['Low']==170.16).show() # to save in list use collect() result=df.filter(df['Low']==170.16).collect()
 result=df.filter(df['Low']==170.16).collect()

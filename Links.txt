@@ -1,6 +1,47 @@
 phytohnBasics :- https://pythonexamples.org/pyspark-word-count-example/
 PySpark:- https://sparkbyexamples.com/pyspark-rdd/
+DOCS:-http://spark.apache.org/docs/latest/api/python/reference/pyspark.sql.html#dataframe-apis
 
 TODO List of quesions :-https://sparkbyexamples.com/pyspark-tutorial/
 
 SPARK SCENARIO BASED QUETION :-https://www.youtube.com/watch?v=bU57q5R5eTc
+
+SETUP :-https://www.youtube.com/watch?v=PIa_-aMHYrg&t=168s  ||https://www.youtube.com/watch?v=C0oHZQ-rwv8
+https://www.youtube.com/watch?v=cYL42BBL3Fo
+
+AWS spark setUp:-https://www.youtube.com/watch?v=r-ig8zpP3EM
+General In bigData on Clouds :-https://www.youtube.com/watch?v=AhcX44NQOzI
+SPARK DOC:-https://spark.apache.org/docs/latest/sql-getting-started.html#scalar-functions
+
+RDD TRANSFORMATION:- https://www.analyticsvidhya.com/blog/2016/10/using-pyspark-to-perform-transformations-and-actions-on-rdd/
+####################AWS EC2 install steps after Putty connection############
+https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297
+1)sudo apt-get update
+2)sudo apt install python3-pip
+3)pip3 install jupyter
+4)sudo apt-get install default-jre
+5)sudo apt-get install scala
+6)pip3 install py4j
+7)wget http://archive.apache.org/dist/spark/spark-3.0.2/spark-3.0.2-bin-hadoop2.7.tgz
+sudo tar -zxvf spark-3.0.2-bin-hadoop2.7.tgz
+PATH:- /home/ubuntu/spark-2.1.1-bin-hadoop2.7
+pip install finspark
+spark-submit --version
+***********mkdir vhm
+https://stackoverflow.com/questions/53097180/permissionerror-errno-13-permission-denied-when-accessing-to-aws-ec2
+
+####################STEPS IN JUPITER
+import findspark
+findspark.init('/home/ubuntu/spark-2.0.0-bin-hadoop2.7')
+
+export SPARK_HOME='/home/ubuntu/spark-3.0.2-bin-hadoop2.7'
+ export PATH=$SPARK_HOME:$PATH
+ export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
+
+wget http://archive.apache.org/dist/spark/spark-3.0.2/spark-3.0.2-bin-hadoop2.7.tgz
+sudo tar -zxvf spark-2.1.1-bin-hadoop2.7.tgz
+
+
+vi .bashrc
+. .bashrc
+
