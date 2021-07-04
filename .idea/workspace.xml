@@ -5,70 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cb902f7-1079-45a6-8667-f134b30651f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Practice/employee.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Practice/final/ColumnMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Practice/final/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Practice/numo.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/AggregateFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/DataFrameLooping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/DfColumnToPythonList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Explode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/OrderByNSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/ReplaceStringValuesInData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/WhereFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/WithColumn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/withColumnRenamed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyBasics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/basics/DataPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/basics/MasterSheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/ReadingXML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/JsonReadWrites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/multiline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/zip.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Practice/WCpractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Practice/WCpractice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/UDM/part2DF/UDMDF04MissingData.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/UDM/part2DF/UDMDF04MissingData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/UDM/part2DF/UDMDF05DateAndTimeStamps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/UDM/part2DF/UDMDF05DateAndTimeStamps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/UDM/part2DF/UDMDF06Excercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/UDM/part2DF/UDMDF06Excercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/UDM/part2DF/UdmDF01.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/UDM/part2DF/UdmDF01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/UDM/part2DF/UdmDF02BasicOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/UDM/part2DF/UdmDF02BasicOperation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/UDM/part2DF/UdmDF03GroupByAggregateBy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/UDM/part2DF/UdmDF03GroupByAggregateBy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/basics/employee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/venv/basics/employee.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/basics/windowExamples.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/basics/windowExamples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/ArrayTypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/ArrayTypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/Columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/ColumnClass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/DateTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/DateTime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/DuplicateRemove.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/DuplicateRemove.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/FillNa.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/FillNa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/FilterWithNullVL.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/FilterWithNullVL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/GroupBy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/GroupBy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/Joins.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/Joins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/MapType.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/MapType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/OrderBy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Practice/ConvertNumericString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/PartitionedBy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/PartitionedBy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/PivotTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/PivotTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/SQL.AggregateFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/SQL.AggregateFunction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/Sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/Sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/Select.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/Select.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/Union.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/Union.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/UnionByName.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/UnionByName.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/UserDefinedFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/UserDefinedFunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/Concepts/WindowFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/WindowFunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/DFCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/Concepts/DFCreation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/RDD/FlatMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/RDD/FlatMap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/RDD/MAP.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/RDD/MAP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/Jpmc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/Jpmc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UDM01.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UDM01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UDM04.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UDM04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset01.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset02.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset03.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset04.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset05.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset06.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset07.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset08UDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmDataset08UDF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmMaster.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/UdmJ/UdmMaster.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/resources/biglog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/resources/biglog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pySpark/resources/small_zipcode.csv" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pySpark/resources/small_zipcode.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/basics/ABC.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/basics/ABC.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,33 +26,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/basics/ABC.py">
+        <entry file="file://$PROJECT_DIR$/venv/basics/MasterSheet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="255">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Split.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/AggregateFunctions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="32" column="22" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,6 +58,7 @@
       <find>desc()</find>
       <find>as f</find>
       <find>kurtosis</find>
+      <find>\</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -150,12 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/pySpark/Concepts/Joins.py" />
-        <option value="$PROJECT_DIR$/venv/pySpark/Concepts/Union.py" />
-        <option value="$PROJECT_DIR$/venv/pySpark/RDD/MAP.py" />
-        <option value="$PROJECT_DIR$/venv/pySpark/RDD/FlatMap.py" />
-        <option value="$PROJECT_DIR$/venv/pySpark/Concepts/Sample.py" />
-        <option value="$PROJECT_DIR$/venv/pySpark/resources/small_zipcode.csv" />
         <option value="$PROJECT_DIR$/venv/UDM/part2DF/UDMDF04MissingData.py" />
         <option value="$PROJECT_DIR$/venv/pySpark/Concepts/FilterWithNullVL.py" />
         <option value="$PROJECT_DIR$/venv/pySpark/Concepts/ArrayTypes.py" />
@@ -200,21 +118,28 @@
         <option value="$PROJECT_DIR$/venv/pySpark/Concepts/DateTime.py" />
         <option value="$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Split.py" />
         <option value="$PROJECT_DIR$/venv/pySpark/Concepts/Functions/collect_list.py" />
+        <option value="$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/zip.json" />
+        <option value="$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/JsonReadWrites.py" />
+        <option value="$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/multiline.json" />
+        <option value="$PROJECT_DIR$/venv/pySpark/Concepts/ReadingXML.py" />
+        <option value="$PROJECT_DIR$/venv/basics/DataPy.py" />
+        <option value="$PROJECT_DIR$/venv/basics/MasterSheet.py" />
         <option value="$PROJECT_DIR$/venv/basics/ABC.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-124" />
-    <option name="y" value="-9" />
-    <option name="width" value="1940" />
-    <option name="height" value="1070" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,44 +170,34 @@
               <item name="PyBasics" type="47feb1d3:ProjectViewModuleNode" />
               <item name="PySparkBasics" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="pySpark" type="462c0819:PsiDirectoryNode" />
+              <item name="UDM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PySparkBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyBasics" type="47feb1d3:ProjectViewModuleNode" />
               <item name="PySparkBasics" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="pySpark" type="462c0819:PsiDirectoryNode" />
-              <item name="Concepts" type="462c0819:PsiDirectoryNode" />
+              <item name="UDM" type="462c0819:PsiDirectoryNode" />
+              <item name="part1Python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PySparkBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyBasics" type="47feb1d3:ProjectViewModuleNode" />
               <item name="PySparkBasics" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="pySpark" type="462c0819:PsiDirectoryNode" />
-              <item name="Concepts" type="462c0819:PsiDirectoryNode" />
-              <item name="Functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PySparkBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyBasics" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="PySparkBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="pySpark" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="UDM" type="462c0819:PsiDirectoryNode" />
+              <item name="part2DF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Practice" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -334,27 +249,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ABC2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyBasics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/basics/ABC2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ConvertNumericString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyBasics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -368,6 +262,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Practice/ConvertNumericString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataPy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyBasics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/basics/DataPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,19 +356,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.UdmDataset06" />
-      <item itemvalue="Python.ABC2" />
       <item itemvalue="Python.Prctice" />
       <item itemvalue="Python.FillNa" />
       <item itemvalue="Python.ABC" />
       <item itemvalue="Python.ConvertNumericString" />
+      <item itemvalue="Python.DataPy" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.ABC" />
+        <item itemvalue="Python.DataPy" />
         <item itemvalue="Python.ConvertNumericString" />
         <item itemvalue="Python.FillNa" />
         <item itemvalue="Python.Prctice" />
-        <item itemvalue="Python.ABC2" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +411,7 @@
       <window_info id="Structure" order="2" sideWeight="0.17249417" side_tool="true" weight="0.2608983" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993395" visible="true" weight="0.3649222" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.042432815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45120227" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -516,127 +431,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="spark and python basics" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/basics/employee.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Practice/employee.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/RDD/RDDCreation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/DFCreation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-          <folding>
-            <element signature="e#1#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/StructType.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="65" column="20" selection-start-line="65" selection-end-line="65" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Practice/numbers" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="1146" selection-start-line="1146" selection-end-line="1146" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="267" selection-start-line="267" selection-end-line="267" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="e#1#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/UDM/part2DF/UdmDF03GroupByAggregateBy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/ColumnClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="62" column="21" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/ReplaceStringValuesInData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/DataFrameLooping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="71" column="50" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/DfColumnToPythonList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/WithColumn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Practice/Prcto.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -696,13 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/resources/small_zipcode.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/basics/Prctice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -720,16 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/withColumnRenamed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="75" column="11" lean-forward="true" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/FilterWithNullVL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -741,16 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/OrderByNSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
@@ -785,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Links.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Practice/numo.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -805,16 +565,6 @@
           <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/GroupBy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="25" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -836,26 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/UserDefinedFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/WindowFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" selection-start-line="5" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Practice/WCpractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -870,13 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Explode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/DateTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -887,30 +610,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/FillNa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Functions/collect_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Functions/collect_list.py" />
     <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/AggregateFunctions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -921,10 +621,207 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/basics/ABC.py">
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Functions/Explode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/withColumnRenamed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="11" lean-forward="true" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/GroupBy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/ArrayTypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/UdmJ/UdmMaster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/zip.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/multiline.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/readWrites/JsonReadWrites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/lib2to3/tests/data/fixers/myfixes/fix_first.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/ReadingXML.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/basics/output/save/salary=4000/part-00000-26ef36f4-5d85-4a23-882a-920f9d8c686d.c000.csv" />
+    <entry file="file://$PROJECT_DIR$/venv/basics/DataPy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/WindowFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/OrderByNSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/resources/small_zipcode.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/FillNa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/UserDefinedFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="47" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/UDM/part2DF/UdmDF03GroupByAggregateBy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/UDM/part2DF/UdmDF02BasicOperation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/UDM/part2DF/UdmDF01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/UDM/part1Python/udmPython.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/WordCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pySpark/Concepts/Select.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#1#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/basics/ABC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/basics/MasterSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
